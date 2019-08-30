@@ -32,4 +32,6 @@ printf("%d ",a[i]);
 }
 printf("%d",a[n-1]);
 }
-
+/*sample input/*          /*sample output/*
+6                                11
+1 7 2 2 4 4
